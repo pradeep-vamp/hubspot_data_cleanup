@@ -1,0 +1,6 @@
+delorean
+requests
+hubspot
+hubspot-api-client
+pandas
+numpy
