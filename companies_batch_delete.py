@@ -11,7 +11,7 @@ from numpy import array_split
 
 def setup_client():
     api_client = hubspot.Client.create()
-    api_client.access_token = "pat-na1-a9496a1d-02e4-48d7-aebb-bc5abe0ddee7"
+    api_client.access_token = ""
     # api_client.access_token = "" ## Prod
     return api_client
 
